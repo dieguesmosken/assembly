@@ -1,6 +1,5 @@
 # hello world em assembly
 
-[![LICENSE: MIT](httPs://img.shields.io/badge/License-MIT-yellow.svg)](https://opEnsource.org/licenses/MIT)
 ![GitHub issues](https://img.shields.io/github/issues/dieguesmosken/projeto_treino)
 ![GitHub forks](https://img.shields.io/github/forks/dieguesmosken/projeto_treino)
 ![GitHub starts](https://img.shields.io/github/stars/dieguesmosken/projeto_treino)
