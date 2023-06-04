@@ -1,5 +1,42 @@
 # hello world em assembly
 
+[![LICENSE: MIT](httPs://img.shields.io/badge/License-MIT-yellow.svg)](https://opEnsource.org/licenses/MIT)
+![GitHub issues](https://img.shields.io/github/issues/dieguesmosken/projeto_treino)
+![GitHub forks](https://img.shields.io/github/forks/dieguesmosken/projeto_treino)
+![GitHub starts](https://img.shields.io/github/stars/dieguesmosken/projeto_treino)
+![GitHub license](https://img.shields.io/github/license/dieguesmosken/projeto_treino)
+![GitHub repo size](https://img.shields.io/github/repo-size/dieguesmosken/projeto_treino)
+![GitHub contributors](https://img.shields.io/github/contributors/dieguesmosken/projeto_treino)
+![GitHub top language](https://img.shields.io/github/languages/top/dieguesmosken/projeto_treino)
+![GitHub last commit](https://img.shields.io/github/last-commit/dieguesmosken/projeto_treino)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dieguesmosken/projeto_treino)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dieguesmosken/projeto_treino)
+![GitHub language count](https://img.shields.io/github/languages/count/dieguesmosken/projeto_treino)
+![GitHub all releases](https://img.shields.io/github/downloads/dieguesmosken/projeto_treino/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/dieguesmosken/projeto_treino)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/dieguesmosken/projeto_treino)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dieguesmosken/projeto_treino)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dieguesmosken/projeto_treino)
+
+## Sumário
+
+- [Descrição](#descrição)
+- [Pré-requisitos](#pré-requisitos)
+- [Instalando](#instalando)
+- [Clonando](#clonando)
+- [Compilando](#compilando)
+- [Linkando](#linkando)
+- [Executando](#executando)
+- [Limpando](#limpando)
+- [Referências](#referências)
+- [Licença](#licença)
+- [Autor](#autor)
+- [TODO](#todo)
+
+
+
+
+
 ## Descrição
 
 Este é um programa simples que imprime a mensagem "Hello World!" na tela.
