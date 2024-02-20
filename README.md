@@ -111,7 +111,7 @@ rm hello.o hello
 
 ## Licença
 
-[![LICENSE: MIT](httPs://img.shields.io/badge/License-MIT-yellow.svg)](https://opEnsource.org/licenses/MIT)
+![LICENSE: MIT](httPs://img.shields.io/badge/License-MIT-yellow.svg)(https://opEnsource.org/licenses/MIT)
 
 ## Autor
 
