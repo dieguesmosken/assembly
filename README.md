@@ -111,7 +111,8 @@ rm hello.o hello
 
 ## Licença
 
-![LICENSE: MIT](httPs://img.shields.io/badge/License-MIT-yellow.svg)(https://opEnsource.org/licenses/MIT)
+![LICENSE: MIT](httPs://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub license](https://img.shields.io/github/license/dieguesmosken/projeto_treino)
 
 ## Autor
 
